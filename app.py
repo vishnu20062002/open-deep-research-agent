@@ -1042,7 +1042,7 @@ elif st.session_state.nav == "ℹ️ About":
         <div class="team-pill">👩‍💻 Team Member 4 · UI / UX Design</div>
     </div>
     <div style="font-size:12px;color:#64748B;text-align:center;margin-top:4px">
-        Department of Computer Science &amp; Engineering · 2024–25
+        Department of Computer Science &amp; Engineering
     </div>
     """, unsafe_allow_html=True)
 
