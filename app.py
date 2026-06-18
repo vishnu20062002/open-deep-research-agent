@@ -1055,7 +1055,7 @@ st.markdown("""
     <div class="footer-title">🔬 Open Deep Research Agent</div>
     <div class="footer-sub">AI-Powered Research Automation System </div>
     <div class="footer-links">
-        <a class="footer-link" href="https://github.com/your-repo" target="_blank">📦 GitHub Repository</a>
+        <a class="footer-link" href="https://github.com/vishnu20062002/open-deep-research-agent" target="_blank">📦 GitHub Repository</a>
     </div>
     <div style="font-size:11px;color:#94A3B8;margin-top:12px">
         Built with Streamlit · Python 3.11 · All rights reserved © 2025
