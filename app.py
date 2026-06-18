@@ -1035,6 +1035,7 @@ elif st.session_state.nav == "ℹ️ About":
 
     st.markdown("""
     <div class="team-grid">
+        <div class="team-pill">👨‍💻 P.Sai Vishnu Vardhan Reddy · Frontend Developer</div>
         <div class="team-pill">👨‍💻 Team Member 1 · Lead Developer</div>
         <div class="team-pill">👩‍💻 Team Member 2 · AI / NLP</div>
         <div class="team-pill">👨‍💻 Team Member 3 · Backend / Data</div>
@@ -1052,12 +1053,9 @@ elif st.session_state.nav == "ℹ️ About":
 st.markdown("""
 <div class="footer">
     <div class="footer-title">🔬 Open Deep Research Agent</div>
-    <div class="footer-sub">AI-Powered Research Automation System · Final Year Project · 2024–25</div>
+    <div class="footer-sub">AI-Powered Research Automation System </div>
     <div class="footer-links">
         <a class="footer-link" href="https://github.com/your-repo" target="_blank">📦 GitHub Repository</a>
-        <a class="footer-link" href="https://arxiv.org" target="_blank">📚 arXiv</a>
-        <a class="footer-link" href="https://ieeexplore.ieee.org" target="_blank">🔬 IEEE Xplore</a>
-        <a class="footer-link" href="https://scholar.google.com" target="_blank">🎓 Google Scholar</a>
     </div>
     <div style="font-size:11px;color:#94A3B8;margin-top:12px">
         Built with Streamlit · Python 3.11 · All rights reserved © 2025
